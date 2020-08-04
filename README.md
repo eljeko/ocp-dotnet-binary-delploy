@@ -57,7 +57,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 # Binary deploy .netcore
 
-Run the commands from the root fo project ```ocp-dotnet-binary-delploy```
+Run the commands from the  project root folder ```ocp-dotnet-binary-delploy```.
 
 Create new app:
 
