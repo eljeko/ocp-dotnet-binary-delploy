@@ -42,10 +42,10 @@ Build succeeded.
     0 Error(s)
 
 Time Elapsed 00:00:00.58
-cerbero:~ eljeko$ dotnet restore -r rhel.7-x64
+host:~ $ dotnet restore -r rhel.7-x64
   Determining projects to restore...
   Restored [PATH_TO]/ocp-dotnet-binary-delploy/src/RestAPP/RestAPP.csproj (in 9.3 sec).
-cerbero:~ eljeko$ dotnet publish -f netcoreapp3.1 -c Release -r rhel.7-x64 --self-contained false /p:MicrosoftNETPlatformLibrary=Microsoft.NETCore.App
+host:~ $ dotnet publish -f netcoreapp3.1 -c Release -r rhel.7-x64 --self-contained false /p:MicrosoftNETPlatformLibrary=Microsoft.NETCore.App
 Microsoft (R) Build Engine version 16.6.0+5ff7b0c9e for .NET Core
 Copyright (C) Microsoft Corporation. All rights reserved.
 
