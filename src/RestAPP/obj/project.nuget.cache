@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjJ09HYC1JGhAWy4yyLgHrnAdHiP5OY1rdR6ts8q8C/X9qf8ddGgu9ky7C8zf0l2ScyEU5pdxov5Zt0qIjM0fA==",
+  "success": true,
+  "projectFilePath": "/Users/eljeko/redhat/SolutionArchitect/INPS/ACN/ocp-dotnet-binary-delploy/src/RestAPP/RestAPP.csproj",
+  "expectedPackageFiles": [
+    "/Users/eljeko/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.6/microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
