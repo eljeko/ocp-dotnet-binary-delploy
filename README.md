@@ -79,3 +79,8 @@ oc expose svc/dotnet-rest-app
 
 Wait for the pod with the app to be available (oc get pods).
 
+The url of service is:
+
+```
+http://<YOUR_HOST>/WeatherForecast
+```
